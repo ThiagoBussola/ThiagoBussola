@@ -10,6 +10,7 @@
 </div>
 
  <div>
+ <h3>Rank no Code Wars!</h3>
   <a href="https://github.com/ThiagoBussola">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThiagoBussola&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoBussola&layout=compact&langs_count=7&theme=gotham"/>
