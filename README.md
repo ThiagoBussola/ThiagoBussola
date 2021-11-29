@@ -6,7 +6,7 @@
 - ⚡ Fun fact: Apaixonado por Literatura e Card Games 
 
 <div style="display: inline_block">
- <img align="center" alt="Thiago-Node" height="120" width="460" src='https://www.codewars.com/users/ThiagoBussola/badges/large'>
+ <img align="center" alt="Thiago-Node" height="110" width="460" src='https://www.codewars.com/users/ThiagoBussola/badges/large'>
 </div>
 
  <div>
