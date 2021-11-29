@@ -6,11 +6,11 @@
 - ⚡ Fun fact: Apaixonado por Literatura e Card Games 
 
 <div style="display: inline_block">
- <img align="center" alt="Thiago-Node" height="110" width="460" src='https://www.codewars.com/users/ThiagoBussola/badges/large'>
+ <h3>Rank no Code Wars!</h3>
+ <img align="center" alt="Thiago-Node" height="100" width="420" src='https://www.codewars.com/users/ThiagoBussola/badges/large'>
 </div>
 
- <div>
- <h3>Rank no Code Wars!</h3>
+ <div> 
   <a href="https://github.com/ThiagoBussola">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThiagoBussola&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoBussola&layout=compact&langs_count=7&theme=gotham"/>
