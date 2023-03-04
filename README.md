@@ -6,7 +6,7 @@
 - ⚡ Fun fact: Passionate about Literature and Card Games
 
 <div style="display: inline_block">
- <h3>Rank no Code Wars!</h3>
+ <h3>Rank in Code Wars!</h3>
  <img align="center" alt="Thiago-Node" height="100" width="420" src='https://www.codewars.com/users/ThiagoBussola/badges/large'>
 </div>
 
