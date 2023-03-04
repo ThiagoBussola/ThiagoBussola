@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Thiago Bussola!
 
-- 🔭 Now i work with Back-end (NodeJS)
-- 🌱 Studying AWS Services,Microservices, Advanced Software Engineering Techniques and Algorithm Analysis and Design
+- 🔭 Now I'm working as a tech lead (Main technologies: NodeJS, MongoDB, Redis, Nest.js and Fastify)
+- 🌱 Studying Flutter, Go, AWS Services,Microservices, Advanced Software Engineering Techniques and Algorithm Analysis and Design
 - 📫 Contact me by email: thiagobussola@hotmail.com
 - ⚡ Fun fact: Passionate about Literature and Card Games
 
